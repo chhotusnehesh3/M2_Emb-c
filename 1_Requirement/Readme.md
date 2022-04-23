@@ -1,5 +1,5 @@
 
-# Passenger-controlled seat heater case study
+# seat heater
 ## Introduction
  Now a days many countries are facing problem with cooling issue due to weather conditions because of that the vechicle seats are getting cold and making the passenger drive the vechile uncomfortably ,So inorder to resolve this issue we have coe up with an idea that is seat heater controlled by the passenger .
  
